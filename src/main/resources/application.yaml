@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: greenGram
+
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/greengram
+    username: root
+    password: 548412
+    servlet:
+      multipart:
+        max-file-size: 5MB
+
+mybatis:
+  mapper-locations: mappers/**/*.xml
+
+springdoc:
+  api-docs:
+    version: openapi_3_1
+  swagger-ui:
+    path: /swagger # Swagger page? redirect
+    operations-sorter: method # default : alpha -> url ???? ???
+    default-model-expand-depth: 10
+    default-models-expand-depth: 10
+    display-request-duration: true # try it out ? ??? request duration(?? ????)? ??? ???
+    cache:
+      disabled: true
+
+file:
+  directory: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1
