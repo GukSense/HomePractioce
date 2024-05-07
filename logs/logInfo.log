@@ -1,113 +1,77 @@
-[2024-05-06 10:58:56 INFO  Test worker] [com.example.greengram.common.CustomFileUtilsTest] Starting CustomFileUtilsTest using Java 18.0.1.1 with PID 13360 (started by ���� in C:\Users\����\OneDrive\���� ȭ��\Code\greenGram)
-[2024-05-06 10:58:56 INFO  Test worker] [com.example.greengram.common.CustomFileUtilsTest] No active profile set, falling back to 1 default profile: "default"
-[2024-05-06 10:58:57 INFO  Test worker] [com.example.greengram.common.CustomFileUtils] uploagPath: C:\Users\����\OneDrive\���� ȭ��\Code\download\greengram_ver1
-[2024-05-06 10:58:58 INFO  Test worker] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] Exposing 1 endpoint(s) beneath base path '/actuator'
-[2024-05-06 10:58:58 INFO  Test worker] [com.example.greengram.common.CustomFileUtilsTest] Started CustomFileUtilsTest in 2.772 seconds (process running for 3.779)
-[2024-05-06 13:35:07 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 29520 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 13:35:07 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 13:35:08 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 13:35:08 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 13:35:08 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 13:35:08 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 13:35:08 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 13:35:08 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1153 ms[0;39m
-[2024-05-06 13:35:08 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.364 seconds (process running for 2.842)[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@6c0c6d2f[0;39m
-[2024-05-06 13:35:09 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 13:36:31 INFO  Test worker] [com.example.greengram.common.CustomFileUtilsTest] Starting CustomFileUtilsTest using Java 18.0.1.1 with PID 3704 (started by ���� in C:\Users\����\OneDrive\���� ȭ��\Code\greenGram)
-[2024-05-06 13:36:31 INFO  Test worker] [com.example.greengram.common.CustomFileUtilsTest] No active profile set, falling back to 1 default profile: "default"
-[2024-05-06 13:36:32 INFO  Test worker] [com.example.greengram.common.CustomFileUtils] uploagPath: C:\Users\����\OneDrive\���� ȭ��\Code\download\greengram_ver1
-[2024-05-06 13:36:34 INFO  Test worker] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] Exposing 1 endpoint(s) beneath base path '/actuator'
-[2024-05-06 13:36:34 INFO  Test worker] [com.example.greengram.common.CustomFileUtilsTest] Started CustomFileUtilsTest in 3.681 seconds (process running for 4.708)
-[2024-05-06 14:17:15 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 14:17:15 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
-[2024-05-06 16:00:22 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 9812 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 16:00:22 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 16:00:23 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 16:00:23 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:00:23 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 16:00:23 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 16:00:23 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 16:00:23 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1144 ms[0;39m
-[2024-05-06 16:00:23 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.479 seconds (process running for 2.933)[0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
-[2024-05-06 16:00:24 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 16:00:25 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@5b240b2b[0;39m
-[2024-05-06 16:00:25 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 16:00:33 [32mINFO [0;39m http-nio-8080-exec-10] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 143 ms[0;39m
-[2024-05-06 16:05:54 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 16:05:54 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
-[2024-05-06 16:05:57 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 23344 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 16:05:57 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 16:05:58 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 16:05:58 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:05:58 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 16:05:58 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 16:05:58 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 16:05:58 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1128 ms[0;39m
-[2024-05-06 16:05:58 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.362 seconds (process running for 2.771)[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@579fdb17[0;39m
-[2024-05-06 16:05:59 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 16:10:40 [32mINFO [0;39m http-nio-8080-exec-2] [com.example.greengram.common.CustomFileUtils] [36mUUID.randomUUID: 4602cd28-76fc-4e32-a577-446021fd56c1[0;39m
-[2024-05-06 16:10:40 [31mERROR[0;39m http-nio-8080-exec-2] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
-org.apache.ibatis.binding.BindingException: Parameter 'uid' not found. Available parameters are [p, pic, param1, param2]
-	at org.apache.ibatis.binding.MapperMethod$ParamMap.get(MapperMethod.java:210)
-	at org.apache.ibatis.reflection.wrapper.MapWrapper.get(MapWrapper.java:45)
-	at org.apache.ibatis.reflection.MetaObject.getValue(MetaObject.java:116)
-	at org.apache.ibatis.scripting.defaults.DefaultParameterHandler.setParameters(DefaultParameterHandler.java:82)
-	at org.apache.ibatis.executor.statement.PreparedStatementHandler.parameterize(PreparedStatementHandler.java:97)
-	at org.apache.ibatis.executor.statement.RoutingStatementHandler.parameterize(RoutingStatementHandler.java:65)
-	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:91)
-	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:49)
-	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
-	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
-	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
-	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+[2024-05-07 23:26:05 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 24792 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
+[2024-05-07 23:26:05 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-05-07 23:26:06 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-05-07 23:26:06 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-05-07 23:26:06 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-05-07 23:26:06 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-05-07 23:26:06 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-05-07 23:26:06 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1443 ms[0;39m
+[2024-05-07 23:26:07 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
+[2024-05-07 23:26:07 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-05-07 23:26:07 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-05-07 23:26:07 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-05-07 23:26:07 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.858 seconds (process running for 3.347)[0;39m
+[2024-05-07 23:26:09 [32mINFO [0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-05-07 23:26:09 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-05-07 23:26:09 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2024-05-07 23:26:10 [32mINFO [0;39m http-nio-8080-exec-10] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 192 ms[0;39m
+[2024-05-07 23:27:42 [31mERROR[0;39m http-nio-8080-exec-7] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: ID는 영어대소문자,숫자만 가능합니다] with root cause[0;39m
+java.lang.RuntimeException: ID는 영어대소문자,숫자만 가능합니다
+	at com.example.greengram.user.UserController.userPost(UserController.java:30)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
-	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
-	at jdk.proxy2/jdk.proxy2.$Proxy88.insert(Unknown Source)
-	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
-	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:62)
-	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
-	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
-	at jdk.proxy2/jdk.proxy2.$Proxy94.userPost(Unknown Source)
-	at com.example.greengram.user.UserService.userPost(UserService.java:29)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
-	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
-	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
-	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:392)
-	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:720)
-	at com.example.greengram.user.UserService$$SpringCGLIB$$0.userPost(<generated>)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-05-07 23:37:38 [31mERROR[0;39m http-nio-8080-exec-9] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: 비밀번호는 8~16 글자 입니다] with root cause[0;39m
+java.lang.RuntimeException: 비밀번호는 8~16 글자 입니다
 	at com.example.greengram.user.UserController.userPost(UserController.java:26)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
@@ -161,127 +125,9 @@ org.apache.ibatis.binding.BindingException: Parameter 'uid' not found. Available
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:833)
-[2024-05-06 16:12:22 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 16:12:22 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
-[2024-05-06 16:12:26 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 10600 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 16:12:26 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 16:12:27 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 16:12:27 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:12:27 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 16:12:27 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 16:12:27 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 16:12:27 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1104 ms[0;39m
-[2024-05-06 16:12:27 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.494 seconds (process running for 2.936)[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@28054c98[0;39m
-[2024-05-06 16:12:28 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 16:12:33 [32mINFO [0;39m http-nio-8080-exec-6] [com.example.greengram.common.CustomFileUtils] [36mUUID.randomUUID: 30a6b527-d7cc-4ef3-9fff-5976f9ac3d8f[0;39m
-[2024-05-06 16:15:50 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 16:15:50 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
-[2024-05-06 16:15:54 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 17772 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 16:15:54 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 16:15:55 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 16:15:55 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:15:55 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 16:15:55 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 16:15:55 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 16:15:55 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1318 ms[0;39m
-[2024-05-06 16:15:55 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.831 seconds (process running for 3.266)[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@598e2c77[0;39m
-[2024-05-06 16:15:56 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 16:16:03 [32mINFO [0;39m http-nio-8080-exec-3] [com.example.greengram.common.CustomFileUtils] [36mUUID.randomUUID: 9db4c8e5-f997-4696-94f3-dfa253363a06[0;39m
-[2024-05-06 16:18:33 [32mINFO [0;39m http-nio-8080-exec-7] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 184 ms[0;39m
-[2024-05-06 16:20:00 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 16:20:00 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
-[2024-05-06 16:20:02 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 712 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 16:20:02 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 16:20:03 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 16:20:03 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:20:03 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 16:20:03 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 16:20:03 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 16:20:03 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1150 ms[0;39m
-[2024-05-06 16:20:03 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.465 seconds (process running for 2.896)[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m RMI TCP Connection(3)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@5580782e[0;39m
-[2024-05-06 16:20:04 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 16:20:08 [32mINFO [0;39m http-nio-8080-exec-5] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 162 ms[0;39m
-[2024-05-06 16:20:26 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 16:20:26 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
-[2024-05-06 16:20:29 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 29256 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 16:20:29 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1051 ms[0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 16:20:30 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.348 seconds (process running for 2.803)[0;39m
-[2024-05-06 16:20:31 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:20:31 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:20:31 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
-[2024-05-06 16:20:31 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 16:20:31 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@734e901e[0;39m
-[2024-05-06 16:20:31 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 16:20:40 [32mINFO [0;39m http-nio-8080-exec-3] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 163 ms[0;39m
-[2024-05-06 16:22:00 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 16:22:00 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
-[2024-05-06 16:22:03 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarting GreenGramApplication using Java 18.0.1.1 with PID 20100 (C:\Users\강국\OneDrive\바탕 화면\Code\greenGram\build\classes\java\main started by 강국 in C:\Users\강국\OneDrive\바탕 화면\Code\greenGram)[0;39m
-[2024-05-06 16:22:03 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1132 ms[0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [com.example.greengram.common.CustomFileUtils] [36muploagPath: C:\Users\강국\OneDrive\바탕 화면\Code\download\greengram_ver1[0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
-[2024-05-06 16:22:04 [32mINFO [0;39m main] [com.example.greengram.GreenGramApplication] [36mStarted GreenGramApplication in 2.398 seconds (process running for 2.834)[0;39m
-[2024-05-06 16:22:05 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:22:05 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
-[2024-05-06 16:22:05 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
-[2024-05-06 16:22:05 [32mINFO [0;39m RMI TCP Connection(1)-172.30.1.25] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
-[2024-05-06 16:22:05 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@54fcc641[0;39m
-[2024-05-06 16:22:05 [32mINFO [0;39m RMI TCP Connection(2)-172.30.1.25] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
-[2024-05-06 16:22:13 [32mINFO [0;39m http-nio-8080-exec-6] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 208 ms[0;39m
-[2024-05-06 16:27:21 [32mINFO [0;39m http-nio-8080-exec-1] [com.example.greengram.user.UserController] [36mp: SingInPostReq(uid=mic, upw=1234)[0;39m
-[2024-05-06 16:27:22 [31mERROR[0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: 아이디를 확인해 주세요.] with root cause[0;39m
-java.lang.RuntimeException: 아이디를 확인해 주세요.
-	at com.example.greengram.user.UserService.postSignIn(UserService.java:51)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
-	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716)
-	at com.example.greengram.user.UserService$$SpringCGLIB$$0.postSignIn(<generated>)
-	at com.example.greengram.user.UserController.postSignIn(UserController.java:39)
+[2024-05-07 23:39:08 [31mERROR[0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: 비밀번호는 8~16 글자 입니다] with root cause[0;39m
+java.lang.RuntimeException: 비밀번호는 8~16 글자 입니다
+	at com.example.greengram.user.UserController.userPost(UserController.java:26)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
@@ -334,6 +180,3 @@ java.lang.RuntimeException: 아이디를 확인해 주세요.
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:833)
-[2024-05-06 16:28:02 [32mINFO [0;39m http-nio-8080-exec-2] [com.example.greengram.user.UserController] [36mp: SingInPostReq(uid=mic5, upw=1234)[0;39m
-[2024-05-06 16:48:16 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
-[2024-05-06 16:48:16 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m

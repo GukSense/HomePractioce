@@ -22,8 +22,16 @@ public class UserController {
     @PostMapping("sign-up")
     @Operation(summary = "회원가입", description = "프로필 파일은 필수가 아님")
     public ResultDto<Integer> userPost(@RequestPart(required = false) MultipartFile pic, @RequestPart SignUpPostReq p) {
+        //pw check length
+        if(!checkLengthPw(p.getUpw())){throw new RuntimeException("비밀번호는 8~16 글자 입니다");}
+        // id 값 영어,숫자만 받아오기
+        String pattern = "^[a-zA-Z0-9]+$";
+        boolean isMatch = p.getUid().matches(pattern);
+        if (!isMatch) {throw new RuntimeException("ID는 영어대소문자,숫자만 가능합니다");}
+
         //유저프로필 사진
         int result = service.userPost(pic, p);
+
 
         return ResultDto.<Integer>builder()
                 .statusCode(HttpStatus.OK)
@@ -45,4 +53,12 @@ public class UserController {
                 .build();
     }
 
+    private boolean checkLengthPw(String pw) {
+        int pwLength = pw.length();
+
+        if (7 < pwLength && pwLength < 17) {
+            return true;
+        }
+        return false;
+    }
 }
